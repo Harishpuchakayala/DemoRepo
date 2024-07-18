@@ -10,6 +10,9 @@ $ git clone ssh://git@github.com/<demo>.git                     Create a local c
 
 $ git remote add origin https://github.com/Ha..la/DemoRepo.git  Create a local copy of a remote repo
 
+$ git remote -v							Identify which remote git repo loggedin
+
+
 =====================
 ## Basic Snapshotting
 =====================
