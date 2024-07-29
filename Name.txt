@@ -3,4 +3,6 @@ Thanks for allowing me
 Hello
 I'm trying to push the code from local repo to remote repo 
 I'm practicing git commands in my local machine and trying to push the updated code to remote repository from the branchone 
+I'm trying to merge the code to remote repo from branchtwo while merging create a conflicts and resolve it
 Creating conflicts while merge the code
+
