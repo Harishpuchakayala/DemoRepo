@@ -1,3 +1,4 @@
 I'm Git Hub allow me pls
 Thanks for allowing me
 I'm trying to push the code from local repo to remote repo 
+I'm trying to merge the code to remote repo from branchtwo while merging create a conflicts and resolve it
