@@ -12,6 +12,9 @@ $ git remote add origin https://github.com/Ha..la/DemoRepo.git  Create a local c
 
 $ git remote -v							Identify which remote git repo loggedin
 
+$ git pull https://<remote/repo/url>				Pull the code from remote repo
+
+$ git push origin master                                        Push the code from local to remote repo
 
 =====================
 ## Basic Snapshotting
